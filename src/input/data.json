@@ -1,0 +1,75 @@
+{
+    "personal": {
+        "name": "",
+        "title": "",
+        "email": "",
+        "github": "",
+        "linkedin": "",
+        "location": "",
+        "phone": ""
+    },
+    "summary": "",
+    "certifications": [
+        {
+            "name": "",
+            "year": "",
+            "issuer": ""
+        }
+    ],
+    "experience": [
+        {
+            "company": "",
+            "location": "",
+            "roles": [
+                {
+                    "title": "",
+                    "period": "",
+                    "highlights": [
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "school": "",
+            "location": "",
+            "year": ""
+        },
+        {
+            "degree": "",
+            "school": "",
+            "location": "",
+            "year": ""
+        }
+    ],
+    "skills": {
+        "Languages": [
+            ""
+        ],
+        "DevOps & Cloud": [
+            ""
+        ],
+        "Web Technologies": [
+            ""
+        ],
+        "Tools & Platforms": [
+            ""
+        ]
+    },
+    "projects": [
+        {
+            "name": "",
+            "link": "",
+            "tech": "",
+            "date": "",
+            "highlights": [
+                ""
+            ]
+        }
+    ]
+}

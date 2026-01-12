@@ -1,0 +1,2 @@
+# Ignore Typst build directory
+./src/build
